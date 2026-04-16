@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/hamidmdala/CLionProjects/assignment003/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++26 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/assignment003.dir/main.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/assignment003.dir/main.cpp.o -c /home/hamidmdala/CLionProjects/assignment003/main.cpp",
+  "file": "/home/hamidmdala/CLionProjects/assignment003/main.cpp",
+  "output": "/home/hamidmdala/CLionProjects/assignment003/cmake-build-debug/CMakeFiles/assignment003.dir/main.cpp.o"
+}
+]
